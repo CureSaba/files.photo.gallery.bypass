@@ -88,7 +88,7 @@ class Config {
     'filter_props' => 'name, filetype, mime, features, title',
     'download_dir' => 'browser',
     'download_dir_cache' => 'dir',
-    'assets' => '',
+    'assets' => '_files/assets',
     'allow_upload' => false,
     'allow_delete' => false,
     'allow_rename' => false,
