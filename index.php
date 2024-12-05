@@ -78,7 +78,7 @@ class Config {
     'click' => 'popup',
     'click_window' => '',
     'click_window_popup' => true,
-    'code_max_load' => 100000,
+    'code_max_load' => 100000000,
     'topbar_sticky' => 'scroll',
     'get_mime_type' => false,
     'context_menu' => true,
